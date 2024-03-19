@@ -34,11 +34,8 @@ K-Means clustering is employed to partition the customer dataset into a predefin
 
 3. Run the Jupyter Notebook to preprocess the data, apply K-means clustering, and analyze the resulting customer segments.
 
-Results
+# Results
 The effectiveness of the customer segmentation model is evaluated based on the coherence and distinctiveness of the identified segments, here, we have identified 5 segments or clusters using the elbow method. The results enable businesses to tailor their marketing strategies, enhance customer satisfaction, and drive revenue growth.
 
-Contribution
-Contributions to improve the model's performance, enhance clustering techniques, or refine segmentation strategies are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
-
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details
